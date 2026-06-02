@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6cad927502a2bbc9",
+        "id": "71b2f532fea87c81",
         "type": "tabs",
         "children": [
           {
-            "id": "0ee812cdc0458fd4",
+            "id": "b2a518c92591684c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -213,8 +213,13 @@
       "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "bcf139924d2788d9",
+  "active": "b2a518c92591684c",
   "lastOpenFiles": [
+    "AI/工具/Skill 创建指南：把经验变成 AI 指令.md",
+    "AI/工具/Skill 创建指南：把经验变成 AI 指令.md.tmp.29260.cd2109eeb685",
+    "wechat_raw.html",
+    "AI/工具/Claude Code Skills 完全指南.md",
+    "AI/工具/Claude Code Skills 完全指南.md.tmp.29260.de38ee80ac86",
     "AI/工程/RAG 落地实战：Spring AI + Milvus 企业级智能问答系统.md",
     "运维/Linux/Linux Firewalld 防火墙常用命令速查.md",
     "运维/Linux",
@@ -226,13 +231,10 @@
     "AI/工程",
     "编程/数据库/Spring Boot 集成 Apache Doris 实时分析实战.md",
     "编程/后端/SpringBoot 接口防抖：防重复提交实现方案.md",
-    "wechat_raw.html",
     "编程/后端/SpringBoot 高并发请求合并：批量查询优化实践.md",
     "编程/后端/SpringBoot 权限校验：从 RBAC 到 ABAC 基于 JCasbin.md",
     "编程/后端/SpringBoot 接口防抖：防重复提交实现方案.md.tmp.30124.0c4345cb5b5b",
-    "编程/后端",
     "AI/工具/Claude Code 降本利器：RTK 代理工具.md",
-    "编程/数据库/Spring Boot 集成 Apache Doris 实时分析实战.md.tmp.30124.21ce839f4c24",
     "AI/工具/Claude Code 配上 DeepSeek V4，性价比炸了.md",
     "AI/工具/Claude Code 接入 DeepSeek V4 实战教程.md",
     "AI/工具/让 Claude Code 成本爆降 89% - RTK.md",
