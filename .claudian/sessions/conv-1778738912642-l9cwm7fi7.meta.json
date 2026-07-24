@@ -4,20 +4,20 @@
   "title": "你是什么模型",
   "titleGenerationStatus": "failed",
   "createdAt": 1778738912646,
-  "updatedAt": 1780386423701,
-  "lastResponseAt": 1780386423701,
+  "updatedAt": 1784873288590,
+  "lastResponseAt": 1784873288590,
   "sessionId": "edc17902-55f7-492d-8d85-9e20762f60bd",
   "providerState": {
     "providerSessionId": "edc17902-55f7-492d-8d85-9e20762f60bd"
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 111,
+    "inputTokens": 41,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 75200,
-    "contextWindow": 200000,
-    "contextTokens": 75311,
-    "percentage": 38,
+    "cacheReadInputTokens": 154752,
+    "contextWindow": 1000000,
+    "contextTokens": 154793,
+    "percentage": 15,
     "contextWindowIsAuthoritative": true
   }
 }

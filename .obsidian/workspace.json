@@ -4,39 +4,151 @@
     "type": "split",
     "children": [
       {
-        "id": "46de9db747f409c3",
+        "id": "cf29af26cb61bea1",
         "type": "tabs",
         "children": [
           {
-            "id": "ddb8ca7c349db117",
+            "id": "882d6383bf2db890",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/工具/Claude Code 接入 DeepSeek V4 实战教程.md",
+                "file": "编程/后端/为什么越来越多团队放弃 RabbitMQ 转向 NATS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude Code 接入 DeepSeek V4 实战教程"
+              "title": "为什么越来越多团队放弃 RabbitMQ 转向 NATS"
             }
           },
           {
-            "id": "d40533540cebd0b3",
+            "id": "77a83a2c24fb75db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/工具/Git 实际开发使用流程指南.md",
+                "file": "编程/后端/为什么越来越多团队放弃 RabbitMQ 转向 NATS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git 实际开发使用流程指南"
+              "title": "为什么越来越多团队放弃 RabbitMQ 转向 NATS"
+            }
+          },
+          {
+            "id": "ceb5cdabedc4c496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/后端/为什么阿里偏爱 Dubbo，而互联网公司更爱 Spring Cloud.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "为什么阿里偏爱 Dubbo，而互联网公司更爱 Spring Cloud"
+            }
+          },
+          {
+            "id": "fbc146b8110902d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/后端/为什么阿里偏爱 Dubbo，而互联网公司更爱 Spring Cloud.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "为什么阿里偏爱 Dubbo，而互联网公司更爱 Spring Cloud"
+            }
+          },
+          {
+            "id": "ccc4a3d72653821a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/后端/如何设计一个灰度发布系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "如何设计一个灰度发布系统"
+            }
+          },
+          {
+            "id": "c840b74edbde7163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/后端/消息队列选型：Kafka RocketMQ RabbitMQ 对比与决策.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "消息队列选型：Kafka RocketMQ RabbitMQ 对比与决策"
+            }
+          },
+          {
+            "id": "dae92cc83b2e3951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/工程/RAG 落地实战：Spring AI + Milvus 企业级智能问答系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RAG 落地实战：Spring AI + Milvus 企业级智能问答系统"
+            }
+          },
+          {
+            "id": "4d52a12a4ba9037a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/工具/PaddleOCR 完全指南：百度开源 OCR 从安装到 Java 集成.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PaddleOCR 完全指南：百度开源 OCR 从安装到 Java 集成"
+            }
+          },
+          {
+            "id": "12f9d95b587b9580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/工具/Nano ID：轻量安全的分布式唯一 ID 生成方案.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nano ID：轻量安全的分布式唯一 ID 生成方案"
+            }
+          },
+          {
+            "id": "9598ad62bad75d88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/后端/SpringBoot 虚拟线程实战：JDK 21 一键提升 IO 密集型吞吐量.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SpringBoot 虚拟线程实战：JDK 21 一键提升 IO 密集型吞吐量"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -99,8 +211,7 @@
               "title": "笔记本导航器"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,7 +327,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463.5
+    "width": 627.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,39 +343,44 @@
       "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "d40533540cebd0b3",
+  "active": "9598ad62bad75d88",
   "lastOpenFiles": [
-    "AI/工具/Claude Code Skill 原理深度解析：结构、机制与创建实战.md",
+    "编程/工具/Nano ID：轻量安全的分布式唯一 ID 生成方案.md",
+    "编程/后端/SpringBoot 虚拟线程实战：JDK 21 一键提升 IO 密集型吞吐量.md",
     "wechat_content.txt",
     "wechat_raw.html",
-    "AI/工具/Claude Code 接入 DeepSeek V4 实战教程.md",
-    "编程/工具/Git 实际开发使用流程指南.md",
-    "编程/工具",
+    "编程/后端/Spring WebFlux 实战指南：异步非阻塞与响应式编程核心解析.md",
+    "AI/工具/PaddleOCR 完全指南：百度开源 OCR 从安装到 Java 集成.md",
+    "编程/工具/Nano ID：轻量安全的分布式唯一 ID 生成方案.md.tmp.26064.1641bd92a13b",
+    "AI/工程/RAG 落地实战：Spring AI + Milvus 企业级智能问答系统.md",
+    "编程/后端/Java 后端双层权限体系：接口权限与数据权限核心设计实战.md",
+    "运维/Linux/Linux Firewalld 防火墙常用命令速查.md",
+    "编程/后端/为什么越来越多团队放弃 RabbitMQ 转向 NATS.md",
+    "编程/后端/为什么阿里偏爱 Dubbo，而互联网公司更爱 Spring Cloud.md",
+    "编程/后端/消息队列选型：Kafka RocketMQ RabbitMQ 对比与决策.md",
     "编程/数据库/为什么我们放弃了 MySQL 读写分离.md",
+    "编程/工具/Git 实际开发使用流程指南.md",
+    "编程/数据库/Redis Stack 搜索引擎：RediSearch 替代 Elasticsearch 的场景分析.md",
+    "编程/数据库/Redis Stack 搜索引擎：RediSearch 替代 Elasticsearch 的场景分析.md.tmp.17892.1509b4a3c1c0",
+    "编程/后端/如何设计一个灰度发布系统.md",
+    "_parse_wechat.py",
+    "_parse_wechat.py.tmp.29036.86f9df5b6bdb",
+    "编程/后端/为什么越来越多团队放弃 RabbitMQ 转向 NATS.md.tmp.8248.e4f9dc89a2d3",
+    "运维/常用命令速查.md",
+    "运维/常用命令速查.md.tmp.30156.d68da957d854",
+    "运维/常用命令速查.md.tmp.30156.c65709846b6a",
+    "运维/常用命令速查.md.tmp.30156.e1200a30f269",
+    "AI/工具/AI 操作 AutoCAD 实战：用 Codex 实现自然语言画图.md",
+    "未命名.canvas",
+    "AI/工具/Claude Code Skill 原理深度解析：结构、机制与创建实战.md",
+    "AI/工具/Claude Code 接入 DeepSeek V4 实战教程.md",
     "AI/工具/Claude Code 11 个常用 Skill 推荐（含各职业方案）.md",
     "编程/后端/后端接口防重复提交：7 种方案与选型指南.md",
-    "AI/工具/Claude Code 11 个常用 Skill 推荐（含各职业方案）.md.tmp.13336.e544d9385def",
     "AI/工具/Skill 创建指南：把经验变成 AI 指令.md",
-    "AI/工具/Skill 创建指南：把经验变成 AI 指令.md.tmp.29260.cd2109eeb685",
     "AI/工具/Claude Code Skills 完全指南.md",
-    "AI/工具/Claude Code Skills 完全指南.md.tmp.29260.de38ee80ac86",
-    "AI/工程/RAG 落地实战：Spring AI + Milvus 企业级智能问答系统.md",
-    "运维/Linux/Linux Firewalld 防火墙常用命令速查.md",
-    "运维/Linux",
-    "运维",
     "编程/数据库/Milvus Docker 安装部署指南.md",
-    "编程/数据库/Milvus Docker 安装部署指南.md.tmp.30124.797971457d98",
-    "milvus_page.html",
     "编程/数据库/Spring Boot 集成 Apache Doris 实时分析实战.md",
     "编程/后端/SpringBoot 接口防抖：防重复提交实现方案.md",
-    "编程/后端/SpringBoot 高并发请求合并：批量查询优化实践.md",
-    "编程/后端/SpringBoot 权限校验：从 RBAC 到 ABAC 基于 JCasbin.md",
-    "AI/工具/Claude Code 降本利器：RTK 代理工具.md",
-    "AI/工具/Claude Code 配上 DeepSeek V4，性价比炸了.md",
-    "AI/工具/让 Claude Code 成本爆降 89% - RTK.md",
-    "未命名.canvas",
-    "未命名/让 Claude Code 成本爆降 89% - RTK.md",
-    "创建链接.md",
-    "欢迎.md"
+    "编程/后端/SpringBoot 高并发请求合并：批量查询优化实践.md"
   ]
 }
